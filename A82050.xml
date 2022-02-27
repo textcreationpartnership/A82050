@@ -1,0 +1,1716 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Protestants resolution: shewing his reasons why he will not be a Papist Digested into so plain a method of question and answer, that an ordinary capacity may be able to defend the Protestant religion, against the most cunning Jesuit or Popish priest. Useful for these times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82050</idno>
+            <idno type="STC">Wing D53A</idno>
+            <idno type="STC">ESTC R232727</idno>
+            <idno type="EEBO-CITATION">99900229</idno>
+            <idno type="PROQUEST">99900229</idno>
+            <idno type="VID">171085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171085)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2553:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Protestants resolution: shewing his reasons why he will not be a Papist Digested into so plain a method of question and answer, that an ordinary capacity may be able to defend the Protestant religion, against the most cunning Jesuit or Popish priest. Useful for these times.</title>
+               </titleStmt>
+               <extent>[2], 68, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D. Newman at the Kings Arms in the Poultrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an advertisement bound at end.</note>
+                  <note>IU copy stained and torn, slightly affecting text.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  Controversial literature --  Early works to 1800.</term>
+               <term>Protestants --  England --  Early works to 1800.</term>
+               <term>Theology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171085:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Proteſtants Reſolution:</hi> Shewing his REASONS Why He
+Will not be a PAPIST.</p>
+            <p>Digeſted into ſo plain a Method of Queſtion and Anſwer,
+that an or<g ref="char:EOLhyphen"/>dinary Capacity may be able to defend the Proteſtant Religion,
+againſt the moſt Cunning <hi>Jeſuit,</hi> or <hi>Popiſh</hi>
+Prieſt.</p>
+            <p>Uſeful for theſe Times.</p>
+            <q>—Be ready to render a reaſon of the hope that is in you,
+<hi>&amp;c.</hi> 
+               <bibl>
+                  <hi>1 Pet. 3.15.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>D. Newman</hi> at the <hi>Kings
+Arms</hi> in the <hi>Poultrey,</hi> 1679.</p>
+            <pb facs="tcp:171085:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:171085:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:171085:4" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:171085:4" rendition="simple:additions"/>
+            <head>A Proteſtants Reſolutio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </head>
+            <head type="sub">Queſtion.</head>
+            <p>
+               <hi>HOw many Religions are there the World?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Principally four.</p>
+            <p>Queſt. <hi>Which are they?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 
+               <list>
+                  <item>Pagan,</item>
+                  <item>Jewiſh,</item>
+                  <item>Mahometan,</item>
+                  <item>Chriſtian.</item>
+               </list>
+            </p>
+            <p>Queſt. <hi>Of which of theſe Religions are you?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Of the Chriſtian Religion.</p>
+            <p>Queſt. <hi>How many parties lay claim to the Chriſtian
+Religion?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Two principally.</p>
+            <p>
+               <pb n="2" facs="tcp:171085:5"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Which be they, and how are they</hi>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> The Papiſt and
+the Proteſtant.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. <hi>Of which of
+theſe parties are</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Of the
+Proteſtant.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſt.
+<hi>What underſtand you by a Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>t?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> One who takes part with thoſe
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho formerly proteſted
+againſt the Er<g ref="char:EOLhyphen"/>rors and Corruptions of the Church of <hi>Rome.</hi>
+            </p>
+            <p>Queſt. <hi>What are thoſe Errors?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> They are very many: I am ready to give an account
+of ſome of their prin<g ref="char:EOLhyphen"/>cipal ones.</p>
+            <p>Queſt. <hi>What is the First Error?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In that they forbid the Bible to be read in the
+vulgar Tongue.</p>
+            <p>Queſt. <hi>What is your opinion in this thing concerning the
+Scriptures?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Scriptures were written for the uſe of the
+common people, and there<g ref="char:EOLhyphen"/>fore ſhould be tranſlated into known Tognues.</p>
+            <p>
+               <pb n="3" facs="tcp:171085:5"/>Queſt. <hi>To what end?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That they may be heard, read, and underſtood of
+all.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe the Lord frequently commands the reading
+of the Scrip<g ref="char:EOLhyphen"/>tures by the people, and ſolemnly charges the reading of them to
+the peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Queſt. <hi>Where is the Command?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Deut. 31.11. <hi>Thou ſhalt read this law before
+all Iſrael in their hearing.</hi> Joh. 5.39. <hi>Search the Scriptures, for
+in them ye think ye have eternal life.</hi> Act. 15.21, <hi>Moſes hath in
+every city them that preach him, being read in the Synagogue every
+Sabbath-day.</hi> Eph. 3.4, <hi>Whereby when ye read, ye may understand my
+knowledg in the myſtery of Chriſt.</hi> Col. 4.16, <hi>When this Epiſtle
+is read among you, cauſe it, that it be read alſo in the Church of the
+Laodiceans, and that ye alſo read the Epiſtle from Laodicea.</hi> 1 Theſ.
+5.27, <hi>I charge you by the Lord that this Epiſtle be read unto all the
+holy brethren.</hi> Rev. 1.3, <hi>Bleſſed <pb n="4" facs="tcp:171085:6"/> is he that
+readeth, and they that hear the words of this prophecy.</hi>
+            </p>
+            <p>Queſt. <hi>What is a Second Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their receiving unwritten Tra<g ref="char:EOLhyphen"/>ditions, with equal
+reſpect and reve<g ref="char:EOLhyphen"/>rence, as we receive the Holy Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <p>Queſt. <hi>Wherein lieth the evil of this opinion?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In this, namely, in making Tra<g ref="char:EOLhyphen"/>ditions of men
+equal in dignity and au<g ref="char:EOLhyphen"/>thority with the expreſs Revelation of God.</p>
+            <p>Queſt. <hi>What is your opinion in this matter?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That the Scriptures in themſelves are a full,
+ſufficient, and perfect rule.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe it containeth all things that are
+neceſſary for men to believe, and do in order to eternal life,
+<hi>Iſa.</hi> 8.20. <hi>To the law, and to the teſtimony; if they ſpeak
+not according to this world, it is be<g ref="char:EOLhyphen"/>cauſe there is no light in them.</hi>
+Joh. 20.31. <pb n="5" facs="tcp:171085:6"/> 
+               <hi>Theſe are written, that ye may believe,
+that Jeſus is the Chriſt the Son of God, and that believing ye might have
+life through his Name.</hi> Gal. 1.8, <hi>Though we or an Angel from heaven
+preach any other Goſpel, than that which we have preached unto you, let him
+be accurſed.</hi> Eph. 2.20. <hi>Built upon the foundation of the Apoſtles
+and Prophets, Jeſus Chriſt himſelf, being the chief cor<g ref="char:EOLhyphen"/>ner-ſtone.</hi>
+2 Tim. 3.16, 17, <hi>From a child thou haſt known the holy Scriptures, which
+are able to make thee wiſe unto ſalvation through faith, which is in
+Chriſt Jeſus: That the man of God may be perfect, thorowly furniſhed</hi>
+(marg. perfected) <hi>un<g ref="char:EOLhyphen"/>to all good works.</hi>
+            </p>
+            <p>Queſt. <hi>What is a Third Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That we are to believe the Scrip<g ref="char:EOLhyphen"/>tures upon the
+ſole Authority of the Church.</p>
+            <p>Queſt. <hi>Wherein lieth the evil of this opinion?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It lieth in this, namely, that men being liable to
+miſtakes, may lead me in<g ref="char:EOLhyphen"/>to <pb n="6" facs="tcp:171085:7"/> to errors; ſo that I can
+never be ſure, that what I take as my rule, is indeed that right one of Gods
+preſcribing: there<g ref="char:EOLhyphen"/>fore the teſtimony of the Church cannot be the only or
+chief reaſon of our belie<g ref="char:EOLhyphen"/>ving the Scripture to be the Word of God.
+<hi>Eph.</hi> 2.20. <hi>Built upon the founda<g ref="char:EOLhyphen"/>tion of the prophets and
+apoſtles, Jeſus Christ himſelf being the chief corner-ſtone.</hi> 1
+Theſ. 2.13. <hi>For this cauſe thank we God without ceaſing, becauſe
+when ye re<g ref="char:EOLhyphen"/>ceived the word of God, which ye heard of us, ye received it not as
+the word of men, but</hi> (as it is in truth) <hi>the word of God, which
+effectually worketh alſo in you that believe.</hi>
+            </p>
+            <p>Queſt. <hi>What then is the chief reaſon of our belief of the
+Scriptures?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The teſtimony of the Spirit of God, in the word
+it ſelf, witneſſing it to be of God. <hi>Pſal.</hi> 119.105. <hi>Thy
+word is a lamp unto my feet, and a light unto my path.</hi> Prov. 6.23.
+<hi>Commandment is a lamp, and the law is light.</hi> Heb. 4.12. <hi>The word
+of God is quick and powerful, and <pb n="7" facs="tcp:171085:7"/> ſharper than any
+two-edged ſword; piercing even to the dividing aſunder of ſoul and
+ſpirit, and of the Joynts and marrow, and is a diſcerner of the thoughts
+and intents of the heart.</hi> 2 Pet. 1.19, <hi>We have alſo a more ſure
+word of prophecy, whereunto you do well that ye take heed, as unto a light that
+ſhineth in a dark place, until the day dawn, and the day-ſtar ariſe in
+your hearts.</hi>
+            </p>
+            <p>Queſt. <hi>What is a fourth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In aſſerting the infallibility of their Pope
+and Church, and that every man muſt ſubmit his faith and conſcience to
+them.</p>
+            <p>Queſt. <hi>Do the Papiſts any where aſſert this?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Yes: and <hi>Bellarmine</hi> in particu<g ref="char:EOLhyphen"/>lar layeth
+down this poſition, That if the <hi>Pope</hi> command the practice of vice,
+and forbid virtuous actions, the Church is bound to believe vices to be good,
+and virtues to be bad, <hi>Bell. de Pontif. Rom. li.</hi> 4. <hi>cap.</hi>
+5.</p>
+            <p>
+               <pb n="8" facs="tcp:171085:8"/>Queſt. <hi>What is the Proteſtant belief in
+this matter?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That there is no human ſupreme infallible Judg
+in the Church of God, to whom all Chriſtians are obliged to ſub<g ref="char:EOLhyphen"/>mit their
+faith and conſcience in all mat<g ref="char:EOLhyphen"/>ters of Religion.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> From three Reaſons:</p>
+            <p n="1">1. Becauſe it is a greater authority than the Apoſtles
+did ever claim. 2 <hi>Cor.</hi> 1.24, <hi>Not, for that we have dominion over
+your faith, but are helpers of your joy; for by faith ye stand.</hi>
+            </p>
+            <p n="2">2. Becauſe it is contrary to Chriſts command, concerning
+tryal of Doctrine, 1 <hi>Pet.</hi> 3.15, <hi>Be ready always to give an
+anſwer to every man that asketh you a rea<g ref="char:EOLhyphen"/>ſon of the hope that is in
+you,</hi> 1 Joh. 4.1, <hi>Believe not every ſpirit, but try the ſpirits
+whether they are of God.</hi>
+            </p>
+            <p n="3">3. Becauſe as to matter of fact, guides and teachers have
+cauſed the people to ſin in following them, <hi>Exod.</hi> 32.5, 31,
+<hi>When Aaron ſaw it, he built an Altar be<g ref="char:EOLhyphen"/>fore <pb n="9" facs="tcp:171085:8"/> it, and
+Aaron made proclamation and ſaid, To morrow is a feaſt to the Lord.</hi> v.
+31. <hi>And Moſes returned unto the Lord, and ſaid, Oh, this people have
+ſinned a great ſin, and have made them gods of gold<g ref="char:punc">▪</g>
+               </hi> Iſa. 3.12.
+<hi>Oh my people, they which lead thee, cauſe thee to err, and deſtroy the
+way of thy paths.</hi> Mat. 23.3. <hi>Do not ye after their works, for they
+ſay and do not.</hi>
+            </p>
+            <p>Queſt. <hi>What is a Fifth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That the Pope is Univerſal Head of the
+Church.</p>
+            <p>Queſt. <hi>What is the Proteſtant belief in this
+matter?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> We deny that there is any ſuch viſible Head,
+therefore the Pope cannot be ſo.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe neither our Creed, nor the ſacred
+Scriptures hath revealed any ſuch thing to us.</p>
+            <p>Queſt. <hi>Whom then do the Proteſtants affirm to be
+univerſal Head of the Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Jeſus Chriſt and him only.</p>
+            <p>
+               <pb n="10" facs="tcp:171085:9"/>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe the Scriptures reveal it.
+<hi>Pſal.</hi> 2.6, <hi>I have ſet my King upon my holy hill of Sion.</hi>
+Epheſ. 1.22. <hi>And hath put all things under his feet, and gave him to be
+the head over all things to the Church.</hi>
+            </p>
+            <p>Queſt. <hi>What is a ſixth Error of the Papists?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That Kings and Emperors, with their reſpective
+ſubjects, are at the Popes diſpoſal in general, and particularly that the
+perſons and eſtates of the Clergy are not under the power of the Civil
+Magi<g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p>Queſt. <hi>What is the Proteſtants belief?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. That Kings and Emperors are not properly
+Subjects to the Pope, nor hath the Pope any power to abſolve any of their
+Subjects from their Allegiance.</p>
+            <p n="2">2. That even the Clergy are ſubject to ſecular Princes,
+and their bodies and eſtates under their government.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe they are in the number of thoſe on
+whom the Scripture chargeth <pb n="11" facs="tcp:171085:9"/> ſubjection, <hi>Rom.</hi>
+13.1. <hi>Let</hi> every ſoul <hi>be ſubject to the higher powers.</hi>
+Tit. 3.1. <hi>Put them in mind to be ſubject to principali<g ref="char:EOLhyphen"/>ties and powers,
+to obey magiſtrates.</hi> 1 Pet. 2.13, 14, 15. <hi>Submit your ſelves to
+every ordinance of man for the Lords ſake, whe<g ref="char:EOLhyphen"/>ther it be to the King as
+ſupreme, or unto governours, as unto them that are ſent by him, for the
+puniſhment of evil-doers, and for the praiſe of them that do well: For ſo
+is the will of God, that with well-doing ye may put to ſilence the ignorance
+of fooliſh men.</hi>
+            </p>
+            <p>Queſt. <hi>What is the ſeventh Error of the
+Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That the Pope of <hi>Rome</hi> is next under
+Chriſt.</p>
+            <p>Queſt. <hi>What ſay the Proteſtants?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That he is Antichriſt, becauſe none have more
+the marks of Antichriſt than he.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe no Antichriſt can do worſe things
+than he, 2 <hi>Theſ.</hi> 2.3, 4, 9, 10. <hi>That day ſhall not come,
+except there come <pb n="12" facs="tcp:171085:10"/> a falling away firſt, and that man of
+ſin be revealed, that ſon of perdition, who op<g ref="char:EOLhyphen"/>poſeth and exalteth
+himſelf above all that is called God, or is worſhipped; ſo that he, as
+God, ſitteth in the Temple of God, ſhewing himſelf that he is God:</hi>
+v. 9. <hi>Even him whoſe coming is after the working of Satan with all power,
+and ſigns, and lying wonders:</hi> v. 10. <hi>And with all deceivableneſs
+of unrighteouſneſs in them that periſh.</hi> Rev. 13. throughout.</p>
+            <p>Queſt. <hi>What is an Eighth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That the Proteſtants are Here<g ref="char:EOLhyphen"/>ticks for
+ſeparating from them.</p>
+            <p>Queſt. <hi>What ſay the Proteſtants to this?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> They ſay, that it being granted, that the
+Proteſtants did ſeparate from the Church of <hi>Rome,</hi> yet that they
+did it upon juſt grounds.</p>
+            <p>Queſt. <hi>How do you prove that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe they did it for the ſake of Chriſt,
+and the Purity of Religion, for which reaſon they are commanded 
+<pb n="13" facs="tcp:171085:10"/> ſo to do, 2 <hi>Cor.</hi> 6.15, 16, 17, 18. <hi>What
+concord hath Chriſt with Belial? or what part hath he that believeth with an
+Infidel? What agreement hath the Temple of God with Idols? ye are the Temple of
+the living God. Wherefore come out from among them, and be ye ſeparate,
+ſaith the Lord, and touch not the unclean thing, and I will receive you, and
+will be a father unto you, and ye ſhall be my ſons and daughters, ſaith
+the Lord Almighty.</hi>
+            </p>
+            <p>Queſt. <hi>What was there in the</hi> Romiſh <hi>Religion that
+occaſioned their ſepara<g ref="char:EOLhyphen"/>tion?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In that it was a 
+<list>
+                  <item>Superſtitious Religion.</item>
+                  <item>Idolatrous Religion.</item>
+                  <item>Damnable Religion.</item>
+                  <item>Bloody Religion.</item>
+                  <item>Traiterous Religion.</item>
+                  <item>Blind Religion.</item>
+                  <item>Blaſphemous Religion.</item>
+               </list>
+            </p>
+            <p>Queſt. <hi>But why do yo you ſay</hi> their ſepa<g ref="char:EOLhyphen"/>ration
+being granted? <hi>Do they not grant their ſeparation?</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:171085:11"/>
+               <hi>Anſ.</hi> They need not; for the Church
+of <hi>Rome</hi> more properly ſeparated from them, than they from the Church
+of <hi>Rome,</hi> in that they broke off from the founda<g ref="char:EOLhyphen"/>tion of the Apoſtles
+Doctrine, which the Proteſtants retain ſtill, holding the head, the
+Papiſts having ſeparated them from their company, and <hi>caſt them out
+for the ſon of mans ſake,</hi> Luk. 6.22.</p>
+            <p>Queſt. <hi>What is a Ninth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That the Church of <hi>Rome</hi> is the only true
+Church.</p>
+            <p>Queſt. <hi>What ſay the Proteſtants to this?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> We deny it.</p>
+            <p>Queſt. <hi>Why?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe the <hi>Roman</hi> Church a<g ref="char:EOLhyphen"/>greeth not
+with the definition of a true Church.</p>
+            <p>Queſt. <hi>What is the true Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The true Church is an Univerſal Congregation, or
+fellowſhip of Gods faithful elect people, built upon the foun<g ref="char:EOLhyphen"/>dation of the
+Apoſtles and Prophets, Je<g ref="char:EOLhyphen"/>ſus Chriſt being the chief corner-ſtone.</p>
+            <p>
+               <pb n="15" facs="tcp:171085:11"/>Queſt. <hi>What are the marks of a true
+Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Such as theſe: Pure and ſound Do<g ref="char:EOLhyphen"/>ctrine
+preached, the Sacraments admini<g ref="char:EOLhyphen"/>ſtred according to Chriſts inſtitution,
+the right uſe of Eccleſiaſtical Diſcipline. <hi>John</hi> 10.4, <hi>The
+ſheep follow him, for they know his voice.</hi> Eph. 5.26,—<hi>he might
+ſan<g ref="char:EOLhyphen"/>ctifie, and cleanſe it with the waſhing of water by the
+word.</hi>
+            </p>
+            <p>Queſt. <hi>What is a Tenth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their praying to Saints and An<g ref="char:EOLhyphen"/>gels.</p>
+            <p>Queſt. <hi>What is the Proteſtants opinion in this
+matter?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That praying to Saints and An<g ref="char:EOLhyphen"/>gels, is a dangerous
+corrupting of holy Worſhip, and abominable in the ſight of God.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. It is abſurd and ridiculous.</p>
+            <p n="1">1. They being not
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to hear our prayers:
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rant of us,</hi> Iſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p n="2">
+               <pb n="16" facs="tcp:171085:12"/>2. In that they cannot be ſure they
+are all real Saints to whom they pray; nay, we know the Pope hath canonized
+many wicked men.</p>
+            <p n="2">2. It hath no warrant from the Word of God, but forbidden.
+<hi>Mat.</hi> 4.10, <hi>Him only ſhalt thou ſerve.</hi>
+            </p>
+            <p n="3">3. It is Idolatrous.</p>
+            <p n="4">4. It is injurious to the Mediatory-office of Chriſt. 1
+<hi>Tim.</hi> 2.5, <hi>There is one God, and one Mediator between God and man,
+the man Chriſt Jeſus.</hi> 1 Joh. 2.1, <hi>If any man ſin, we have an
+advocate with the Father, Jeſus Chriſt the righteous.</hi>
+            </p>
+            <p n="5">5. Angels refuſe it. <hi>Rev.</hi> 22.9. <hi>See thou do
+it not, for I am thy fellow-ſervant.</hi>
+            </p>
+            <p>Queſt. <hi>What is an Eleventh Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their Doctrine of Purgatory.</p>
+            <p>Queſt. <hi>What do you underſtand by Pur<g ref="char:EOLhyphen"/>gatory?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> A place wherein Saints are purged after th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> were not fully purged
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey may enter purer 
+<pb n="17" facs="tcp:171085:12"/> into Heaven. <hi>Bellarm. de Purgat. lib.</hi> 2.
+<hi>cap.</hi> 6.</p>
+            <p>Queſt. <hi>What is the Proteſtants belief concerning
+Purgatory?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That as there is no ſuch place, ſo the belief
+of it is dangerous and ground<g ref="char:EOLhyphen"/>leſs.</p>
+            <p>Queſt. <hi>How prove you that there is no ſuch place?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> From <hi>Rev.</hi> 14.13, <hi>Bleſſed are the
+dead, for they reſt from their labours, from henceforth, that dye in the
+Lord.</hi>
+            </p>
+            <p>Queſt. <hi>Why is it dangerous and ground<g ref="char:EOLhyphen"/>leſs?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. Becauſe there is no ground for it in
+Scripture.</p>
+            <p n="2">2. Becauſe they that belong to God can be no where
+afflicted, but he is affli<g ref="char:EOLhyphen"/>cted with them, <hi>Iſa.</hi> 63.9, <hi>In all
+their affliction, he was afflicted.</hi>
+            </p>
+            <p n="3">3. Becauſe it denies the fulneſs of Chriſts
+ſatisfaction.</p>
+            <p n="4">4. Becauſe hereby the horrid nature of ſin is
+leſſened.</p>
+            <p n="5">5. Becauſe the Saints confidence and <pb n="18" facs="tcp:171085:13"/>
+comfort is hereby impaired; the deſire that St. <hi>Paul</hi> hath to be
+diſſolved, is, that <hi>he may be with Chriſt,</hi> Phil. 1.23.</p>
+            <p>Queſt. <hi>What is a Twelfth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That ſome ſins are venial.</p>
+            <p>Queſt. <hi>What is the Proteſtants belief in this
+point?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That no ſin is in its own nature venial, but
+every ſin is deadly, and de<g ref="char:EOLhyphen"/>ſerves eternal damnation, <hi>Deut.</hi> 27.26,
+<hi>Curſed is every one that continueth not in all things written in this law
+to do them.</hi> Ezek. 18.4, <hi>The ſoul that ſinneth, it ſhall
+die.</hi> Rom. 6.23, <hi>The wages of ſin is death.</hi> Jam. 2.10,
+<hi>Whoſoever ſhall keep the whole law, and offend in one point, is guilty
+of all.</hi>
+            </p>
+            <p>Queſt. <hi>What is a Thirteenth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their Doctrine of Merit.</p>
+            <p>Queſt. <hi>What is the Proteſtants opinion in this
+thing?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That the reward of good works is not deſerved by
+them that receive it.</p>
+            <p>
+               <pb n="19" facs="tcp:171085:13"/>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. Becauſe good works are rewarded meerly out of
+mercy and grace. <hi>Pſal.</hi> 62.12, <hi>
+                  <g ref="char:V">Ʋ</g>nto thee, O Lord, belongeth
+mercy; for thou rendreſt to every man according to his work.</hi> Rom. 11.6,
+<hi>If by grace, then is it no more of works, otherwiſe grace is no more
+grace: but if it be of works, then is it no more grace, otherwiſe work is no
+more work.</hi> Tit. 3.5, <hi>Not by works of righte<g ref="char:EOLhyphen"/>ouſneſs which we have
+done, but according to his mercy he ſaved us.</hi> 1 Pet. 1.13, <hi>Hope to
+the end for the grace that is to be brought unto you at the revelation of
+Jeſus Chriſt.</hi>
+            </p>
+            <p n="2">2. Becauſe eternal life is the gift of God. <hi>Luk.</hi>
+12.32, <hi>It is your Fathers good pleaſure to give you the kingdom.</hi>
+Rom. 6.23, <hi>The gift of God is eternal life.</hi>
+            </p>
+            <p n="3">3. Becauſe Believers owe all to God, therefore can merit
+nothing from him. <hi>Luk.</hi> 17.10, <hi>VVhen ye have done all that you can,
+ſay that ye are unprofitable ſervants: we have done that which was our duty
+to do.</hi> 1 Cor. 4.7, <hi>VVhat haſt thou that thou didſt not receive?
+Now if thou didſt re<g ref="char:EOLhyphen"/>ceive <pb n="20" facs="tcp:171085:14"/> it, why doeſt thou glory as
+if thou hadſt not received it?</hi> 1 Cor. 6.19, <hi>Ye are not your
+own.</hi> Phil. 2.13, <hi>It is God that work<g ref="char:EOLhyphen"/>eth in you both to will and to do
+of his good pleaſure.</hi>
+            </p>
+            <p>Queſt. <hi>What is a Fourteenth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their works of Supererogati<g ref="char:EOLhyphen"/>on.</p>
+            <p>Queſt. <hi>What ſay the Proteſtants to this?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That they who in their obedience attain the
+greateſt degree, fall ſhort of much which in duty they are bound to do,
+much leſs can they do more, or have any oyl to ſpare wherewith to help
+o<g ref="char:EOLhyphen"/>thers. <hi>Mat.</hi> 25.9, <hi>The wiſe anſwered, Not ſo, leſt there
+be not enough for us and you.</hi>
+            </p>
+            <p>Queſt. <hi>What is every man bound to do?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> To full conformity in the whole man to the
+righteous law of God.</p>
+            <p>Queſt. <hi>Is not this to be under the law, and not under
+grace?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Believers are not under the law as a Covenant of
+works, but as a rule of <pb n="21" facs="tcp:171085:14"/> life. <hi>Mat.</hi> 17. <hi>Think
+not that I am come to deſtroy the law, or the prophets: I am not come to
+deſtroy, but to fulfil.</hi> Rom. 7.12, 22, <hi>The law is holy, and juſt,
+and good:</hi> v. 22. <hi>I delight in the law of God after the inward
+man.</hi>
+            </p>
+            <p>Queſt. <hi>May not Saints do more good than they have need of
+for themſelves?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No; when you have done all that is commanded,
+<hi>ſay you are unprofitable ſer<g ref="char:EOLhyphen"/>vants,</hi> Luk. 7.10.</p>
+            <p>Queſt. <hi>What is a Fifteenth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their corrupting the Doctrine of
+Juſtification.</p>
+            <p>Queſt. <hi>Wherein do they corrupt it?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> They tell us we muſt be juſtified by our own
+righteouſneſs, and that a per<g ref="char:EOLhyphen"/>fect righteouſneſs within us.</p>
+            <p>Queſt. <hi>What mean they by a perfect righ<g ref="char:EOLhyphen"/>teouſneſs
+within?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Any degree of charity is their righteouſneſs
+in perfection.</p>
+            <p>Queſt. <hi>What is the Proteſtant Doctrine concerning
+Juſtification?</hi>
+            </p>
+            <p>
+               <pb n="22" facs="tcp:171085:15"/>
+               <hi>Anſ.</hi> That Believers are juſtified
+freely by the grace of God, whereby he accept<g ref="char:EOLhyphen"/>eth them as righteous only for
+the righ<g ref="char:EOLhyphen"/>teouſneſs of Chriſt imputed to them.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> By theſe Scriptures, <hi>Rom.</hi> 3.24,
+<hi>Being juſtified freely by his grace through the redemption that is in
+Jeſus Chriſt.</hi> Chap. 5.8, 9. <hi>God commendeth his love to<g ref="char:EOLhyphen"/>wards us,
+in that while we were yet ſinners, Chriſt died for us: Much more then now
+being juſtified by his blood, we ſhall be ſaved from wrath through
+him.</hi> Chap. 10.3, <hi>They being ignorant of Gods righteouſneſs, and
+going about to eſtabliſh their own righteouſ<g ref="char:EOLhyphen"/>neſs, have not ſubmitted
+themſelves unto the righteouſneſs of God.</hi> Epheſ. 1.6, 7, <hi>To
+the praiſe of the glory of his grace, wherein he hath made us accepted in the
+beloved: In whom we have redemption through his blood, the forgiveneſs of
+ſins according to the riches of his grace.</hi>
+            </p>
+            <p>Queſt. <hi>What is a Sixteenth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <pb n="23" facs="tcp:171085:15"/>
+               <hi>Anſ.</hi> Their worſhipping of
+Images.</p>
+            <p>Queſt. <hi>What is the Proteſtants belief?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That it is not lawful to make Images of God, nor
+to direct our wor<g ref="char:EOLhyphen"/>ſhip to an Image, or by the help of an Image, or to give
+religious worſhip to any creature. <hi>Mat.</hi> 4.10, <hi>Thou ſhalt
+wor<g ref="char:EOLhyphen"/>ſhip the Lord thy God, and him only ſhalt thou ſerve.</hi> Rev.
+19.10, <hi>See thou do it not, I am thy fellow-ſervant, and of thy
+bre<g ref="char:EOLhyphen"/>thren.</hi>
+            </p>
+            <p>Queſt. <hi>What is a Seventeenth Error of the
+Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their preaching and praying in an unknown
+tongue.</p>
+            <p>Queſt. <hi>What ſaith the Proteſtant?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That publick prayer is not to be made in an
+unknown tongue, but in ſuch a language as is underſtood by the com<g ref="char:EOLhyphen"/>mon
+people.</p>
+            <p>Queſt. <hi>What mean you by prayer?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Confeſſion of ſin, Petition for grace,
+Interceſſion for others, and Giving of thanks.</p>
+            <p>
+               <pb n="24" facs="tcp:171085:16"/>Queſt. <hi>Why muſt we not pray in an
+un<g ref="char:EOLhyphen"/>known tongue?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe it cannot be to edification. 1
+<hi>Cor.</hi> 14.26, <hi>Let all things be done to edi<g ref="char:EOLhyphen"/>fying.</hi> Ver. 16,
+<hi>How ſhall he that occupieth the room of the unlearned, ſay</hi> Amen
+<hi>at thy giving of thanks, ſeeing he underſtandeth not what thou
+ſayeſt?</hi>
+            </p>
+            <p>Queſt. <hi>Why may we not preach in an un<g ref="char:EOLhyphen"/>known tongue?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. For the ſame reaſon, <hi>viz.</hi>
+be<g ref="char:EOLhyphen"/>cauſe it is not to edification, and ſo plain<g ref="char:EOLhyphen"/>ly againſt the word of
+God, 1 <hi>Cor.</hi> 14. at the beginning.</p>
+            <p n="2">2. Becauſe it is againſt the cuſtom of the Primitive
+Church, to have publick Prayer, or Preaching, or Adminiſtrati<g ref="char:EOLhyphen"/>on of the
+Sacraments in a tongue not underſtood by the people.</p>
+            <p n="3">3. Becauſe the Original Tongues are not known to all the
+people who have right unto, and intereſt in the Scrip<g ref="char:EOLhyphen"/>tures, and are
+commanded in the fear of God to read and ſearch them.</p>
+            <p>
+               <pb n="25" facs="tcp:171085:16"/>Queſt. <hi>What is an Eighteenth Error of
+the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their Doctrine of Indulgences.</p>
+            <p>Queſt. <hi>What do the Papiſts mean by their
+Indulgences?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> An abſolution from the guilt of puniſhment, by
+the ſatisfactions which are contained in the Church-trea<g ref="char:EOLhyphen"/>ſury.</p>
+            <p>Queſt. <hi>What is the Proteſtants belief in this
+matter?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That Papal Indulgences are the worſt of cheats,
+and abominable injuries to Chriſt and Chriſtians.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. Becauſe there is no pardon of ſin, but by
+the mercy of God, through the blood of Chriſt. <hi>Rom.</hi> 5.1, <hi>Being
+juſtified by faith, we have peace with God through our Lord Jeſus
+Chriſt.</hi> Eph. 1.7, <hi>In whom we have redemption through his blood, the
+forgiveneſs of ſins, according to the riches of his grace.</hi>
+            </p>
+            <p n="2">2. Becauſe there is no ſuch thing in Scripture, that the
+merits of one Saint <pb n="26" facs="tcp:171085:17"/> ſhould be able to make
+ſatisfaction for the ſins of another.</p>
+            <p n="3">3. It is moſt injurious to Chriſt, who needeth not any
+Merits of Saints to be added to his ſatisfaction; <hi>For by one of<g ref="char:EOLhyphen"/>fering he
+hath perfected for ever them that be ſanctified,</hi> Heb. 10.14.</p>
+            <p>Queſt. <hi>What is a Nineteenth Error of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their forbidding Prieſts to Mar<g ref="char:EOLhyphen"/>ry.</p>
+            <p>Queſt. <hi>VVhat do they ſpeak of marriage it ſelf?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> They do not forbid all marriage, but ſpeak
+diſgracefully and contemptu<g ref="char:EOLhyphen"/>ouſly of it.</p>
+            <p>Queſt. <hi>VVhat ſay the Proteſtants in this
+matter?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That the <hi>Popiſh</hi> Doctrine forbid<g ref="char:EOLhyphen"/>ding to
+Marry, is devilliſh and wicked Doctrine.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. Becauſe it is that which God not only
+alloweth, but in ſome caſes commandeth, making no exception of 
+<pb n="27" facs="tcp:171085:17"/> the Clergy from others. <hi>Mat.</hi> 19.11, <hi>All men
+cannot receive this ſaying, ſave they to whom it is given.</hi> 1 Cor. 7.2,
+<hi>To avoid fornication, let every man have his own wife.</hi> Chap. 9.5.
+<hi>Have we not power to lead about a Siſter, a Wife, as well as other
+Apoſtles, and as the brethren of the Lord, and Cephas?</hi> 1 Tim. 3.2, <hi>A
+Biſhop muſt be blameleſs, the husband of one wife.</hi> Tit. 1.6, <hi>If
+any be blameleſs, the husband of one wife, having faithful children.</hi>
+Heb. 13.4, <hi>Marriage is honour<g ref="char:EOLhyphen"/>able in all, and the bed undefiled: but
+whoremongers and adulterers God will judg.</hi>
+            </p>
+            <p n="2">2. Becauſe it leads to much leud<g ref="char:EOLhyphen"/>neſs and villany, as
+Fornication, Adul<g ref="char:EOLhyphen"/>tery, Inceſt, Sodomy, Murder, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. Becauſe this Doctrine is a badg of Antichriſt, 1
+<hi>Tim.</hi> 4.1, 3, <hi>The ſpirit ſpeak<g ref="char:EOLhyphen"/>eth expreſly, that in the
+latter times ſome ſhall depart from the faith, giving heed to ſeducing
+ſpirits, and doctrines of Devils.</hi> Ver. 3. <hi>Forbidding to
+marry.</hi>
+            </p>
+            <p>
+               <pb n="28" facs="tcp:171085:18"/>Queſt. <hi>What is a Twentieth Error of the
+Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Denying the Doctrine of Aſſu<g ref="char:EOLhyphen"/>rance.</p>
+            <p>Queſt. <hi>What ſaith the Papiſts of it?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That a Believers aſſurance of the pardon of
+his ſin is a vain and ungodly confidence.</p>
+            <p>Queſt. <hi>What is the Proteſtants belief in this
+matter?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That it is not only our privi<g ref="char:EOLhyphen"/>ledg that we may,
+but our duty to la<g ref="char:EOLhyphen"/>bour after aſſurance that our ſins are pardoned. 2
+<hi>Pet.</hi> 1.10, <hi>Give diligence to make your calling and election
+ſure; for if ye do theſe things, ye ſhall never fall.</hi>
+            </p>
+            <p>Queſt. <hi>How doth it appear to be our duty?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. From the nature, uſe, and end of the holy
+Scriptures, which are a good foundation of aſſurance. <hi>Rom.</hi> 15.4,
+<hi>Whatſoever things were written aforetime, were written for our learning,
+that we <pb n="29" facs="tcp:171085:18"/> through patience and comfort of the Scr<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tures might have hope.</hi>
+            </p>
+            <p n="2">2. From the nature of conſcien<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and its power. 1 <hi>John</hi>
+3.19, 20, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Hereby we
+know that we are of the trut<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+and ſhall aſſure our hearts before him: Fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if our heart condemn us, God is greater than our
+heart, and knoweth all things: If our heart condemn us not, then have we
+confidence towards God.</hi>
+            </p>
+            <p n="3">3. Becauſe it hath been attained by others, as <hi>Job,
+David, Paul,</hi> &amp;c.</p>
+            <p n="4">4. Becauſe God hath appointed Or<g ref="char:EOLhyphen"/>dinances, that believers
+may have aſſu<g ref="char:EOLhyphen"/>rance.</p>
+            <p>Queſt. <hi>What is an One and Twentieth Error of the
+Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their Doctrine of Seven Sacra<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Queſt. <hi>What is a Sacrament?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> A Sacrament is an Ordinance of Chriſt,
+conſiſting of viſible ſigns, repre<g ref="char:EOLhyphen"/>ſenting, ſealing, and applying
+Chriſt, and the benefits of the New Covenant to Be<g ref="char:EOLhyphen"/>lievers.</p>
+            <p>
+               <pb n="30" facs="tcp:171085:19"/>Queſt. <hi>How many Sacraments are there the
+New Teſtament?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Only two, <hi>viz.</hi> Baptiſm and the
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rds Supper.</p>
+            <p>Queſt. <hi>Which be thoſe other five which
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Papiſts have
+added.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. Confirmation. 2. Extreme Unction. 3. Matrimony.
+4. Holy Or<g ref="char:EOLhyphen"/>ders. 5. Penance.</p>
+            <p>Queſt. <hi>Why may not theſe five be Sacra<g ref="char:EOLhyphen"/>mental as well as
+the other two?</hi>
+            </p>
+            <p n="1">1. Becauſe there are not ſufficient parts in any of them
+to make a Sacra<g ref="char:EOLhyphen"/>ment. <hi>Prov.</hi> 30.6, <hi>Add thou not unto his words,
+leſt he reprove thee, and thou be found a lyar.</hi>
+            </p>
+            <p n="2">2. Becauſe there are no parts of a Sa<g ref="char:EOLhyphen"/>crament in any of
+theſe, but what is included in Baptiſm and the Lords Sup<g ref="char:EOLhyphen"/>per.</p>
+            <p>Queſt. <hi>What is a Two and Twentieth Error of the
+Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their Doctrine of Tranſubſtan<g ref="char:EOLhyphen"/>tiation.</p>
+            <p>
+               <pb n="31" facs="tcp:171085:19"/>Queſt. <hi>What do they underſtand by
+Tranſubſtantiation?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That by the Conſecration of the Bread and Wine,
+there is made a Con<g ref="char:EOLhyphen"/>verſion of the whole ſubſtance of the bread into the
+ſubſtance of the body of Chriſt, and of the Wine into the ſub<g ref="char:EOLhyphen"/>ſtance
+of the blood of Chriſt.</p>
+            <p>Queſt. <hi>What Scripture do they alledg for this?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Joh. 6.51, 53, 54, 55, 56.</p>
+            <p>Queſt. <hi>What ſay the Proteſtants to this
+aſſertion?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. That Chriſt bleſſed <hi>Bread</hi> and
+<hi>Wine,</hi> therefore did not deſtroy them.</p>
+            <p n="2">2. That it is <hi>bread</hi> and <hi>wine</hi> in the
+Sacrament, which Chriſt hath com<g ref="char:EOLhyphen"/>manded his Miniſters to adminiſter, and
+his people to receive.</p>
+            <p n="3">3. That the Apoſtle himſelf doth no leſs than three
+times call it <hi>bread</hi> and <hi>wine</hi> after Conſecration, 1
+<hi>Cor.</hi> 11.26, 27, 28.</p>
+            <p>
+               <pb n="32" facs="tcp:171085:20"/>Queſt. <hi>What other reaſons do the
+Pro<g ref="char:EOLhyphen"/>teſtants give againſt Tranſubſtantiation?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. It takes away the great evi<g ref="char:EOLhyphen"/>dence of the
+firſt witneſſes to Chriſti<g ref="char:EOLhyphen"/>anity. 1 <hi>Joh.</hi> 1, <hi>That which we
+have heard, which we have ſeen with our eyes, which we have looked upon,</hi>
+&amp;c.</p>
+            <p n="2">2. It makes void the whole inſtituti<g ref="char:EOLhyphen"/>on. 1 <hi>Cor.</hi>
+11.23, 24, <hi>I have received of the Lord, that which alſo I delivered unto
+you, that the Lord Jeſus the ſame night in which he was betrayed, took</hi>
+bread; <hi>and when he had given thanks, he</hi> brake <hi>it, and ſaid,
+Take</hi> eat, <hi>this is my</hi> body <hi>which is broken for you: this do
+in</hi> remembrance <hi>of me.</hi>
+            </p>
+            <p n="3">3. It will not allow men the priviledg of beaſts; to judg
+by their ſenſes, as ſee<g ref="char:EOLhyphen"/>ing, ſmelling, taſting, <hi>&amp;c.</hi>
+            </p>
+            <p>Queſt. <hi>What is a Twenty-third Error of the
+Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their denying the uſe of the Cup to the people
+in the Sacrament.</p>
+            <p>Queſt. <hi>What is the Proteſtants belief in this
+matter?</hi>
+            </p>
+            <p>
+               <pb n="33" facs="tcp:171085:20"/>
+               <hi>Anſ.</hi> That every Communicant hath an
+undeniable right to the bleſſed <hi>Cup</hi> in the Lords Supper.</p>
+            <p>Queſt. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. From the inſtitution of this Sacrament, and
+our Saviours command annexed thereunto, <hi>Matth.</hi> 26.27, <hi>He took
+the</hi> cup, <hi>and gave thanks, and gave it to them, ſaying,</hi> Drink
+<hi>ye all of it.</hi>
+            </p>
+            <p n="2">2. From the example and appoint<g ref="char:EOLhyphen"/>ment of the Apoſtles.
+<hi>Mark</hi> 14.23, <hi>And they all</hi> drank <hi>of it.</hi>
+            </p>
+            <p n="3">3. Becauſe without the Cup a man cannot anſwer the end
+of this Sacrament: <hi>As oft as ye eat this bread, and</hi> drink
+<hi>this</hi> cup, <hi>ye do ſhew the Lords death till he come,</hi> 1 Cor.
+11.26.</p>
+            <p n="4">4. Becauſe the ſame right we have to Chriſts
+<hi>blood,</hi> we have to the <hi>Cup. Mat.</hi> 26.27, 28, <hi>He took
+the</hi> cup, <hi>and gave thanks, and gave it to them, ſaying,</hi> drink
+<hi>ye all of it: For this is my</hi> blood <hi>of the New Teſtament, which
+is ſhed for many for the remiſſion of ſins.</hi> Luk. 22.20,
+<hi>This</hi> cup <hi>is the New Teſtament in my</hi> 
+               <pb n="34" facs="tcp:171085:21"/>
+blood, <hi>which is ſhed for you.</hi> 1 Cor. 10.16, <hi>The cup of
+bleſſing which we bleſs, is it not the communion of the</hi> blood <hi>of
+Christ?</hi>
+            </p>
+            <p>Queſt. <hi>What is the twenty-fourth Error of the
+Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their Doctrine of the Maſs.</p>
+            <p>Queſt. <hi>What do they underſtand by the Maſs?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That which the Proteſtants (ac<g ref="char:EOLhyphen"/>cording to the
+Scripture) call the Lords Supper, Papiſts call the Maſs, whereby the
+Sacrament is made a Sacrifice, and offered up to God, <hi>Bellar. lib.</hi> 1.
+<hi>de miſſa. cap.</hi> 1.</p>
+            <p>Queſt. <hi>What ſay the Protestants of the Maſs?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That it is a <hi>vain</hi> and <hi>Idolatrous</hi>
+thing, as uſed by them.</p>
+            <p>Queſt. <hi>VVhy vain?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe by Chriſts Sacrifice God is
+ſufficiently ſatisfied, and the repenting-ſinner fully ſecured.
+<hi>Heb.</hi> 10.12. <hi>This man after he had offered one ſacrifice for
+ſins for ever, ſate down on the right hand of God.</hi>
+            </p>
+            <p>
+               <pb n="35" facs="tcp:171085:21"/>Queſt. <hi>Why Idolatrous?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe they make it a meer <hi>Idol,</hi> not
+only worſhipping it as <hi>God,</hi> but truſting therein for ſalvation,
+as in <hi>Chriſt</hi> himſelf.</p>
+            <p>Queſt. <hi>How prove you that the Maſs is not the very ſame
+ſacrifice with that of Chriſt crucified on the Croſs?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. God appointed Chriſt for a Sacrifice, but
+never the Maſs.</p>
+            <p n="2">2. The Maſs is not of the ſame ſort or kind with that
+of Chriſt crucified.</p>
+            <p>Queſt. <hi>Wherein lieth the difference?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. It was the ſacrifice of the ve<g ref="char:EOLhyphen"/>ry
+<hi>body</hi> born of a Virgin, but the Maſs of a <hi>piece of
+bread.</hi>
+            </p>
+            <p n="2">2. There was ſhedding of blood, but the Maſs is an
+unbloody ſacrifice.</p>
+            <p n="3">3. It had the due proportion of a man, but the Maſs is a
+wafer.</p>
+            <p>Queſt. <hi>Are there no more Errors of the Papiſts?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Yes, many: but theſe are ſuffi<g ref="char:EOLhyphen"/>cient to make
+the Proteſtant abhor their Church and Doctrine.</p>
+            <p>
+               <pb n="36" facs="tcp:171085:22"/>Queſt. <hi>Where was the Proteſtants
+Re<g ref="char:EOLunhyphen"/>ligion before</hi> Luther?</p>
+            <p>
+               <hi>Anſ.</hi> In the Bible Doctrinally, and in its fruits in the
+hearts and lives of all good men.</p>
+            <p>Queſt. <hi>Where were the Diſciples firſt called
+Chriſtians?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> At <hi>Antioch</hi> the Diſciples were firſt
+called <hi>Chriſtians.</hi> Act. 11.26.</p>
+            <p>Queſt. <hi>Then the name of</hi> Chriſtian <hi>had not its
+riſe from</hi> Rome?</p>
+            <p>
+               <hi>Anſ.</hi> No.</p>
+            <p>Queſt. <hi>What doth the name</hi> Chriſtian <hi>put us in
+mind of?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It putteth us in mind of what Chriſt hath done
+for us, and the many benefits we obtain from his life, death, reſurrection
+and interceſſion.</p>
+            <p>Queſt. <hi>What more?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It is a remembrance unto us what we ſhould do
+for Chriſt, in gratitude of what he hath done for us.</p>
+            <p>Queſt. <hi>Do not Popiſh Prieſts, Jeſuits, and others that
+dye for Treaſons and Mur<g ref="char:EOLhyphen"/>thers, dye like Chriſtians?</hi>
+            </p>
+            <p>
+               <pb n="37" facs="tcp:171085:22"/>
+               <hi>Anſ.</hi> No: True Chriſtians at their
+death will give Glory to God.</p>
+            <p>Queſt. <hi>Do not they give glory to God?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No: if they did, they would con<g ref="char:EOLhyphen"/>feſs their
+juſt deſerts that brings them to that puniſhment.</p>
+            <p>Queſt. <hi>Why do they not confeſs their Treaſons,
+Murder,</hi> &amp;c. <hi>when they come to dye for them?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe their Church forbids them to confeſs
+to Proteſtants, which they call <hi>Hereticks.</hi>
+            </p>
+            <p>Queſt. <hi>How doth that appear?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In that they receive their <hi>Abſo<g ref="char:EOLhyphen"/>lution,</hi>
+upon <hi>condition</hi> that they dye <hi>concealing</hi> the Crime for which
+they dye.</p>
+            <p>Queſt. <hi>
+                  <g ref="char:V">Ʋ</g>pon what Principle do they proceed in
+this?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Upon this principle, namely, That no man owes his
+ememy Truth.</p>
+            <p>Queſt. <hi>Why ſo?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe then he owes him what may be a means for
+his preſervation.</p>
+            <p>
+               <pb n="38" facs="tcp:171085:23"/>Queſt. <hi>What uſe do they make of this
+Principle?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That the Proteſtants being Ad<g ref="char:EOLhyphen"/>verſaries to the
+Church of <hi>Rome,</hi> her Sons owe them nothing but ruin and deſtruction;
+and the vileſt of means they can uſe for that end, are meritori<g ref="char:EOLhyphen"/>ous and
+glorious.</p>
+            <p>I Have not inſerted the Quotations un<g ref="char:EOLhyphen"/>der the Five laſt
+Queſtions, in re<g ref="char:EOLhyphen"/>gard the Authors are ſo numerous; if the Papiſts ſhall
+deny it, let the Reader peruſe what the Proteſtant Authors have quoted out
+of the <hi>Romaniſts</hi> own books, and he will find that they do not only
+make this kind of Perjury <hi>blameleſs,</hi> but <hi>neceſſary;</hi>
+breach of Oaths is no leſs with them than a vertue, or a neceſſary duty
+in many caſes, eſpecially when any thing of moment is to be oppoſed,
+which is a<g ref="char:EOLhyphen"/>gainſt the Laws of the <hi>Roman</hi> Church, a<g ref="char:EOLhyphen"/>gainſt that
+particularly of the General Council of <hi>Lateran,</hi> under Pope
+<hi>Innocent</hi> the Third, which forbids all favour to be <pb n="39" facs="tcp:171085:23"/> ſhewed to <hi>Hereticks</hi> under the ſoreſt penalties and
+decrees: That favourers of <hi>Hereticks</hi> are under Excommunication, if
+they will not break their Oaths made in favour of <hi>Hereticks;</hi> and that
+by the Sacred Decree of their Church, he muſt be forſworn if he will not be
+excom<g ref="char:EOLhyphen"/>municated, and thereby expoſed to the violence of every hand (as Sir
+<hi>Edmond<g ref="char:EOLhyphen"/>bury Godfrey</hi> was) yea one that hath taken the Oaths of
+Allegiance and Supremacy, according to their Doctrine, ſins mor<g ref="char:EOLhyphen"/>tally, and
+puts himſelf into the ſtate of damnation; not if he takes thoſe Oaths,
+(for that their Prieſts may diſpenſe with) but if he keeps them. So Pope
+<hi>Martin</hi> the Fifth declared in writing to <hi>Alexander</hi> Duke of
+<hi>Lithuania, Know</hi> (ſays he) <hi>that thou ſinneſt mortally, if
+thou keep thy Oaths with Hereticks,</hi> Apud. Coch<g ref="char:EOLhyphen"/>laeum, <hi>l.</hi> 5.
+Hiſt. Huſſitarium.</p>
+            <p>Hereby it appears, that no Papiſts can poſſibly give any
+ſecurity which may be truſted, that Proteſtants ſhall enjoy any thing
+which is in their power to de<g ref="char:EOLhyphen"/>prive <pb n="40" facs="tcp:171085:24"/> them of; for the
+greateſt ſecuri<g ref="char:EOLhyphen"/>ties that can be given in this caſe, are engagements of
+<hi>Faith</hi> and <hi>Truth;</hi> God being invocated for Confirmation in
+ſolemn Oaths; but their Religion hath laid ſuch ſtrong bonds upon them,
+to break all bonds that may favour the Pro<g ref="char:EOLhyphen"/>teſtants, that it leaves no hope
+of ſalva<g ref="char:EOLhyphen"/>tion to them who will not at their deaths take it upon their
+ſalvation, the great<g ref="char:EOLhyphen"/>eſt untruth, if the Catholick Cauſe may be holpen by
+it; for another General Council, that of <hi>Conſtance,</hi> hath
+determi<g ref="char:EOLhyphen"/>ned, that <hi>no Faith is to be kept with He<g ref="char:EOLhyphen"/>reticks,</hi> in the 19th
+Seſſion of that Aſ<g ref="char:EOLhyphen"/>ſembly: that no ſafe Conduct given by Emperor,
+King, or Secular Prince to <hi>He<g ref="char:EOLhyphen"/>reticks,</hi> or any defamed for
+<hi>Hereticks,</hi> though with a deſign to reduce them, by what engagements
+ſoever they have obliged themſelves, ſhall hinder thoſe
+<hi>Hereticks</hi> from being deſtroyed, though they come to the place of
+Judgment, re<g ref="char:EOLhyphen"/>lying upon ſuch ſecurity; as in <hi>John Huſſe</hi>'s
+caſe by Pope <hi>John</hi> the 22d. Hereby <pb n="41" facs="tcp:171085:24"/> Proteſtants
+may underſtand what rea<g ref="char:EOLhyphen"/>ſon they have to truſt to nothing among
+Papiſts, but what will keep them out of their power, ſeeing the principles
+of that Religion (not private mens opinions, but the determination of Councils)
+bind them to obſerve no Faith, or Truth, or common honeſty with thoſe
+whom they account <hi>Hereticks;</hi> no, not when life is concerned, rather
+than a Proteſtant ſhall be ſafe in any of his concerns where they can
+reach them: It is a <hi>virtue,</hi> a duty in their Religion, to ſnap
+aſunder all ſecu<g ref="char:EOLhyphen"/>rity (by which the world hath hitherto been preſerved)
+to ruin a <hi>Heretick.</hi>
+            </p>
+            <p>They who would ſee more of this at large, may read the
+<hi>Jeſuits Morals,</hi> the <hi>Practical Divinity of the Papiſts,</hi>
+and <hi>My<g ref="char:EOLhyphen"/>ſtery</hi> of <hi>Jeſuitiſm,</hi> beſides the late
+inſtances which they have given at their Deaths, who have been executed for
+Treaſon and Murders, denying the things for which they ſuffered, though
+proved upon them as clear as the Sun at noon-day; occaſi<g ref="char:EOLhyphen"/>oned by the awe
+their Prieſts have up<g ref="char:EOLhyphen"/>on <pb n="42" facs="tcp:171085:25"/> them; being ſo far led away
+with them, that the obedience of the dying Proſe<g ref="char:EOLhyphen"/>lyte is prevalent, even
+above his Conſi<g ref="char:EOLhyphen"/>derations for a future eſtate.</p>
+            <p>This will be more apparent, if we conſider, that hundreds of
+<hi>Iriſh</hi> Papiſts are executed in the Kingdom of <hi>Ireland</hi>
+every year for Murthers, Thefts, <hi>&amp;c.</hi> and though taken in the very
+fact, yet when they come to dye, uſually take it upon their Deaths, and as
+they muſt ap<g ref="char:EOLhyphen"/>pear before the great Judg that knows all things, that they are
+as innocent from the fact for which they dye, as the Child unborn. For they
+having diſcharg'd their Conſciences, by confeſſing it to the Prieſts,
+and received his abſolution, it would bring an <hi>odium</hi> on their
+Religion, and would be a ſtrengthening the hands of the Proteſtants, if the
+Prieſts ſhould ſuffer it. Whereas on the other ſide, could they
+perſwade the ſimple people to believe they dyed innocent, they hope it may
+lay a ſtain upon that Religion which they call ſo often by the name of 
+<pb n="43" facs="tcp:171085:25"/> 
+               <hi>Hereſie.</hi> And though thoſe Prieſts have
+always that regard to their Church, as to impoſe upon the Priſoner, to let
+the world know he dyeth a <hi>Roman</hi> Catho<g ref="char:EOLhyphen"/>lick; yet he hath alſo much
+care of the Man, that he muſt not deſire the Prayers of any but
+Papiſts.</p>
+            <p>Theſe things being ſo uſual among them, any conſiderate
+man will eaſily judg, without breach of charity, upon what ground ſuch men
+are ſeduced to commit a ſin, and then <hi>out-face</hi> the truth of the
+matter of fact, even in the <hi>face</hi> of Death.</p>
+            <p>BEcauſe the Papiſts ſhall not ſay, the charge I give their
+Religion under the Eighth Error is groundleſs, I ſhall inſtance in
+particular; And,</p>
+            <p n="1">1. I ſay 'tis a <hi>Superſtitious Reli<g ref="char:EOLhyphen"/>gion.</hi>
+            </p>
+            <p>It were innumerable to account the many vain fopperies in their
+Devotions, which they place Religion in: as the Tooth of St.
+<hi>Chriſtopher.</hi> The Hair of <pb n="44" facs="tcp:171085:26"/> St. <hi>Peters</hi>
+Beard. The ſhift that came off the back of the Virgin <hi>Mary;</hi> and the
+Duſt and Vermine which they keep of ſome Saints. <hi>Valla</hi> a great
+perſon of Learning and Eminency among them, ſaith, <hi>There are ten
+thouſand ſuch things in</hi> Rome; <hi>if the Host fall to the ground, it
+muſt be licked up, the ground is to be ſcraped, and the ſcrapings reduced
+to aſhes, is to have place among their Reliques.</hi>
+            </p>
+            <p>Add to this their Holy-water, their ſalt, their ſpittle, their
+Holy Oyl, their Beads, Whippings, Fiſh-days, Pilgrima<g ref="char:EOLhyphen"/>ges, Nunneries,
+Croſſing themſelves, Bap<g ref="char:EOLhyphen"/>tizing of Bells, Fonts, <hi>&amp;c.</hi> So that
+the great <hi>Eraſmus</hi> in his Annotations, ap<g ref="char:EOLhyphen"/>proved by Pope <hi>Leo</hi>
+the Tenth, ſaith, <hi>Their whole Religion is almoſt brought to their
+ſuperſtitious treatment of Reliques, through the covetouſneſs of
+Prieſts, and the Hypocriſie of Monks, fed by the fooliſh<g ref="char:EOLhyphen"/>neſs of the
+people.</hi>
+            </p>
+            <p n="2">2. 'Tis an <hi>Idolatrous Religion.</hi>
+            </p>
+            <p>In invocating Saints, adoring the Hoſt, and worſhipping
+Images: Their <pb n="45" facs="tcp:171085:26"/> worſhipping of Reliques, giving Reli<g ref="char:EOLhyphen"/>gious
+Worſhip to ſuch things as they do but fancy to be Reliques; and not only
+when they are whole and ſound, but when they are corrupted, and reduced to
+duſt, or nothing elſe left of them, but the Vermin bred in them.
+<hi>Henricus,</hi> one of the School Doctors concludes, That the Reliques in
+the form of duſt and aſhes, may and ought to be adored, but not under the
+form of Vermin, and gives ſome reaſon for it. But their great
+<hi>Vaſ<g ref="char:EOLhyphen"/>quez</hi> rejects this ſcruple, and the ground of it as vain and
+frivolous, and concludes they may be worſhipped, as well when they are
+Vermin, as when they are aſhes. Beſides their Angel-worſhip,
+Image-wor<g ref="char:EOLhyphen"/>ſhip, and Saint-worſhip,</p>
+            <p n="3">3. 'Tis a <hi>Damnable Religion.</hi>
+            </p>
+            <p>In that it overthrows the very foun<g ref="char:EOLhyphen"/>dation of Chriſtianity;
+their Doctrine of Tranſubſtantiation overthrows the Truth of Chriſts
+humane Nature; their proper Sacrifice, his only Sacrifice for ſin offered
+once for all; their Doctrine of <pb n="46" facs="tcp:171085:27"/> Merits, for his Merits;
+the multitude of Mediators among them, deny that only Mediator betwixt God and
+Man, the man Jeſus Chriſt: Their Sacrificing-Prieſts overthrow Chriſts
+Prieſtly office; Their villifying the Scriptures, and ſet<g ref="char:EOLhyphen"/>ting up their
+unwritten Traditions to be received with equal reverence with them, overthrows
+Chriſts Prophetical office.</p>
+            <p>The great Article of forgiveneſs of ſins and free
+juſtification through the Grace of God in Jeſus Chriſt, is overthrown by
+their Doctrine of Merit, Pardons, In<g ref="char:EOLhyphen"/>dulgences, <hi>&amp;c.</hi>
+            </p>
+            <p n="4">4. 'Tis a <hi>Bloody Religion,</hi> wherein
+Papal-<hi>Rome</hi> exceeds Heathen-<hi>Rome.</hi>
+            </p>
+            <p>Witneſs the horrid Murthers and Maſ<g ref="char:EOLhyphen"/>ſacres of the poor
+<hi>Waldenſes,</hi> who have been perſecuted with Fire and Sword, Armies
+and Inquiſitions, and very many Thouſands (nay infinite numbers) of them
+have been inhumanely murdered.</p>
+            <p>That Barbarous and prodigious Vil<g ref="char:EOLhyphen"/>lany, and great Maſſacre of
+Proteſtants <pb n="47" facs="tcp:171085:27"/> in <hi>France, Anno</hi> 1572, where about
+30 or 40000 innocent Proteſtants in <hi>Paris,</hi> and other parts of
+<hi>France,</hi> were ſudden<g ref="char:EOLhyphen"/>ly and inhumanely murdered by
+<hi>Pa<g ref="char:EOLhyphen"/>pists.</hi>
+            </p>
+            <p>Witneſs <hi>Spains</hi> Invincible <hi>Armada,</hi> in
+<hi>Anno</hi> 1588, when <hi>Romes</hi> force threat<g ref="char:EOLhyphen"/>ned to ſwallow us up.
+Witneſs the <hi>Gun-powder Treaſon,</hi> a black and unparallel'd villany,
+worthy <hi>Rome</hi> and a <hi>Jeſuit;</hi> the blowing up of a whole
+Parliament, King, Lords and Commons, the murder<g ref="char:EOLhyphen"/>ing a Kingdom in its
+Repreſentatives, and this in a moment!</p>
+            <p>After that, their bloody Rebellion in <hi>Ireland,</hi> where they
+murdered a Hun<g ref="char:EOLhyphen"/>dred thouſand Proteſtants in cold blood, without any
+provocation given, but to kill <hi>Hereticks.</hi>
+            </p>
+            <p>Add to this their bloody Traiterous deſign of late againſt His
+Majeſty Per<g ref="char:EOLhyphen"/>ſon, the Government, and the Prote<g ref="char:EOLhyphen"/>ſtant Religion; a
+Conſpiracy, had it ta<g ref="char:EOLhyphen"/>ken, might have turned <hi>England</hi> into an
+<hi>Aceldama,</hi> a Field of Blood, or Sham<g ref="char:EOLhyphen"/>bles <pb n="48" facs="tcp:171085:28"/> of
+<hi>Popiſh</hi> Butchers.—Theſe things conſidered, I hope no man
+will be ſo mad to kiſs the Popes Toe, until his Nails be pared, ſo as he
+will not ſcratch, and make the blood run about the mouths of
+<hi>Chriſtendom.</hi>
+            </p>
+            <p n="5">5. 'Tis a <hi>Traiterous Religion.</hi>
+            </p>
+            <p>For they teach, that the Pope may depoſe the Emperor, or a King
+not ſub<g ref="char:EOLhyphen"/>ject to the Emperor; that the Pope may lawfully abſolve ſubjects
+from their Oath of Allegiance.</p>
+            <p>That ſubjects, if they have the Popes conſent (which they are
+ſure to have, if it makes for his intereſt), may depoſe their Kings. That
+if the King be a ma<g ref="char:EOLhyphen"/>nifeſt <hi>Heretick,</hi> (as all Proteſtants are, with
+them) then the Church may depoſe him.</p>
+            <p>Nor have they been wanting to put this their principle into
+practiſe, ſo often as they could find occaſion: as their at<g ref="char:EOLhyphen"/>tempts on
+Queen <hi>Elizabeth,</hi> by poyſon, Piſtol, Dagger: on King
+<hi>James,</hi> by Pow<g ref="char:EOLhyphen"/>der-Treaſon: on King <hi>Charles</hi> the Firſt; 
+<pb n="49" facs="tcp:171085:28"/> and on our King, to whom God grant a long and happy
+Reign.</p>
+            <p>Nor have we only inſtances at home, but abroad; the Murder of
+<hi>Henry</hi> the 4th of <hi>France,</hi> and many others; but above all, the
+<hi>unparallel'd</hi> Murder of that Em<g ref="char:EOLhyphen"/>peror, whom they poyſoned with the
+Sacrament; I call it <hi>unparallel'd,</hi> having never met with a Religion
+before that would poyſon their God to kill their Emperor.</p>
+            <p n="6">6. 'Tis a <hi>Blind Religion.</hi>
+            </p>
+            <p>It leads men out of the way of ſalva<g ref="char:EOLhyphen"/>tion; it hides the danger
+of damnation (to all who have not their hearts thorow<g ref="char:EOLunhyphen"/>ly changed from the love
+of ſin, to the love of God and Holineſs), from their eyes; it covers the
+pit (whoſe deſcent is into that which is bottomleſs,) with Spi<g ref="char:EOLhyphen"/>ders webs,
+and perſwades them 'tis firm-ground; it leaves them no ſenſe no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> notice of many ſins, no
+conſcience of the moſt, no fear of any, no, not of the worſt, ſuch as
+themſelves call <hi>deadly crimes;</hi> it gives as much ſecurity to ſuch
+<pb n="50" facs="tcp:171085:29"/> wickedneſs, as a heart that hath ſold it ſelf to it,
+need wiſh for: it keeps the Bible, the Law of the Lord, which good men make a
+<hi>light to their feet, a lan<g ref="char:EOLhyphen"/>thorn to their paths,</hi> away from them; it
+will not ſuffer men to believe their ſenſes, or act their reaſon, nor
+bottom their faith upon the Scriptures. That, as that General firſt blinded
+the men, then led them into the Enemies quarters, ſo do they; and all the
+anſwer you ſhall have from the common ſort among them, is this, They
+believe as the Prieſt bids them; and if he deceive them, the De<g ref="char:EOLhyphen"/>vil take
+him.</p>
+            <p>And as their faith is, ſuch is their De<g ref="char:EOLhyphen"/>votion; the matter of
+their Prayers is lock't up from them, and they as little concerned to know what
+becomes of them; ſure, if the <hi>blind lead the blind, they must both fall
+into the ditch.</hi>
+            </p>
+            <p>Laſtly, 'Tis a <hi>Blaſphemous Reli<g ref="char:EOLhyphen"/>gion.</hi>
+            </p>
+            <p>
+               <pb n="51" facs="tcp:171085:29"/>In aſcribing the peculiar Excellen<g ref="char:EOLhyphen"/>cies of
+the Divine Majeſty, and the Prerogatives of our Lord Jeſus Chriſt, to the
+bleſſed Virgin, and other crea<g ref="char:EOLhyphen"/>tures, and to their Popes (though di<g ref="char:EOLhyphen"/>vers of
+them, as themſelves acknow<g ref="char:EOLhyphen"/>ledg, were Monſters and Incarnate De<g ref="char:EOLhyphen"/>vils.)</p>
+            <p>When one <hi>Phocas</hi> took the Emperor <hi>Maurice</hi> and his
+family, Priſoners, who was his lawful Soveraign, and having ſlain his Wife
+and Children before his eyes, not ſparing the little Innocent which hung at
+the Breaſts, did after<g ref="char:EOLhyphen"/>ward cauſe his Maſter's Throat to be cut
+likewiſe; a Proceduce ſo black and bar<g ref="char:EOLhyphen"/>barous, that <hi>Historians</hi>
+cannot mention it without horror.</p>
+            <p>Yet Pope <hi>Gregory</hi> congratulates this bloody Treaſon with
+abominable Blaſ<g ref="char:EOLhyphen"/>phemies, and begins his Addreſs to this <hi>Phocas</hi> in
+his 36 Epiſtle, with <hi>Gloria in Excelſis,</hi> the Song of the Angels at
+the Nativity of our Saviour, <hi>Glory be to God on high;</hi> and then
+proceeds, <hi>Let the Hea<g ref="char:EOLhyphen"/>vens <pb n="52" facs="tcp:171085:30"/> ſend forth acclamations,
+the Earth leap for joy, and let all the people be glad thereof.</hi>
+            </p>
+            <p>The <hi>Jeſuits</hi> frequently teach, that Jeſus Chriſt
+might have ſinned, might have been ſubject unto vices, might have fallen
+into error and folly; and that it is no more repugnant to him to err, or to
+ſpeak a thing falſe in it ſelf by the nature he hath aſſumed, than to
+be tormented and dye in the ſame nature: ſo <hi>Amicus,</hi> ſo
+<hi>Vaſquez,</hi> and many more of them.</p>
+            <p>No other ſort of <hi>Hereticks,</hi> (not ex<g ref="char:EOLhyphen"/>cepting <hi>Turk,
+Jew,</hi> nor <hi>Pagan,</hi> no, not thoſe of <hi>Calcute,</hi> who adore
+the Devil), did ever maintain by the Grounds of their Religion, that it was
+lawful, or rather meritorious (as the <hi>Romiſh</hi> Ca<g ref="char:EOLhyphen"/>tholicks calls it)
+to murther Princes or people for the quarrel of Religion; and al<g ref="char:EOLhyphen"/>though
+particular men of all profeſſions of Religion have been, ſome Thieves,
+ſome Murtherers, ſome Traitors; yet ever when they came to their end and
+juſt puniſhment, they confeſſed their <pb n="53" facs="tcp:171085:30"/> fault to be
+in their nature, and not in their profeſſion. But theſe perſons cleave
+to it at their deaths as zealouſly, as if all they had been doing were the
+immediate guidance of the bleſſed Spi<g ref="char:EOLhyphen"/>rit. Such is their blaſphemy!</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:171085:31"/>
+            <pb n="55" facs="tcp:171085:31"/>
+            <head>A Proteſtant Fathers Letter of Advice to his Son, in danger
+of being ſeduc'd to Popery.</head>
+            <opener>
+               <salute>SON,</salute>
+            </opener>
+            <p>BY a Letter laſt Week from your Uncle, I am to my grief
+inform'd, that you have lately fallen into the unhappy Acquaintance of ſome
+<hi>Popiſh</hi> Emiſſaries, and are in danger of being inveigled by them,
+to revolt from the Proteſtant Church, to that of <hi>Rome.</hi> I confeſs
+the news much ſurpriz'd me, and I cannot but eſteem it an eſſential
+part of my Fatherly care to admoniſh and warn you, both of the
+unreaſonableneſs and danger of ſuch <pb n="56" facs="tcp:171085:32"/> a change. I do
+not much admire, that thoſe that have been always converſant in darkneſs,
+ſhould find their eyes of<g ref="char:EOLhyphen"/>fended with the Light; which makes me extend very
+charitable thoughts to poor Souls train'd up in Papal igno<g ref="char:EOLhyphen"/>rance, labouring
+under the almoſt in<g ref="char:EOLhyphen"/>vincible prejudices of corrupted Edu<g ref="char:EOLhyphen"/>cation and Erroneous
+Principles; but that you, born and brought up in a Goſpel-<hi>Meridian,</hi>
+and (as I well hop'd) underſtandingly grounded in the Pro<g ref="char:EOLhyphen"/>teſtant Doctrine,
+ſhould now ſtagger in thoſe important Truths, and be gull'd and cheated
+out of the Religion ſealed with the Blood of your Martyr'd An<g ref="char:EOLhyphen"/>ceſtors, and
+hazard your Soul by a Re<g ref="char:EOLhyphen"/>laps to that long ſince exploded Facti<g ref="char:EOLhyphen"/>on, and their
+ſlaviſh as well as ridicu<g ref="char:EOLhyphen"/>lous ſuperſtitions, is matter of no leſs
+wonder than trouble to me; the rather, for that I am ſatisfied, your
+circum<g ref="char:EOLhyphen"/>ſtances admit not of any temptations of profit or honour to engage you
+to their party; and without thoſe allurements, <pb n="57" facs="tcp:171085:32"/> I
+profeſs you are the firſt that my ex<g ref="char:EOLhyphen"/>perience can remember in danger of
+ſuch a ſhameful Apoſtacy.</p>
+            <p>I ſhall not ſwell this Paper with a particular <hi>Examen</hi>
+of all the <hi>Romiſh</hi> Errors; that task has been ſufficiently and
+unanſwerably performed by mul<g ref="char:EOLhyphen"/>titudes of our Learned Writers, to whom I refer
+you, and charge you to weigh their Arguments ſeriouſly, before you ſuffer
+your Judgment to be de<g ref="char:EOLhyphen"/>bauch'd to a contrary perſwaſion; but becauſe I
+have ſome hopes your duty and filial reſpect may oblige you to a more near
+and ſenſible regard of what is ſaid (though briefly and weakly) by my
+ſelf, (that can have no deſign but the good of your Soul) than to the abler
+reaſonings of others more re<g ref="char:EOLhyphen"/>mote; I ſhall offer ſome general
+Conſi<g ref="char:EOLhyphen"/>derations, which methinks ſhould deter you from caſting away your
+ſelf in their communion.</p>
+            <p>Firſt then, I do affirm to you, That to body of the Popiſh
+Religion (ſo <pb n="58" facs="tcp:171085:33"/> far as it differs from the Proteſtant) is
+compoſed (notwithſtanding all their pretences to Antiquity) of ſtrange
+Doctrines, Innovations and Abuſes, never inſtituted by Chriſt, nor
+war<g ref="char:EOLhyphen"/>rantable by Holy Scripture, nor known nor practic'd in the Primitive
+Church, but introduced at ſeveral times in lat<g ref="char:EOLhyphen"/>ter Ages, meerly to ſerve
+the pride, or the vanity, the covetouſneſs, or the ſen<g ref="char:EOLhyphen"/>ſuality of the
+Inventors.</p>
+            <p n="2">2. That their Doctrines interfere with, and infringe the
+Greatneſs and Sove<g ref="char:EOLhyphen"/>raignty of God, and tend to the di<g ref="char:EOLhyphen"/>miniſhing the honour
+and ſervice due to him; witneſs their dividing ado<g ref="char:EOLhyphen"/>ration betwixt him and
+Images, Invo<g ref="char:EOLhyphen"/>cation betwixt him and Saints, and ab<g ref="char:EOLhyphen"/>ſolute obedience betwixt
+him and the Church, <hi>&amp;c.</hi> Now what groſs and horrible ſacriledge
+is this? What is it leſs than to diveſt him of his Royalty, and give his
+glory to another?</p>
+            <p n="3">3. Their Doctrines tend to the de<g ref="char:EOLhyphen"/>throning of Chriſt, the
+diſparaging his <pb n="59" facs="tcp:171085:33"/> performances, and leſſening the
+Glory and Praiſe belonging to him; witneſs their dividing the Soveraignty
+and Headſhip betwixt him and the Pope; Satisfaction betwixt his Sufferings
+and their own Merits; and Interceſſion be<g ref="char:EOLhyphen"/>twixt him and Saints.</p>
+            <p n="4">4. Their Doctrines are againſt the power of Godlineſs,
+and rob God of his prime Sacrifice, the Heart; witneſs their Tenets, that the
+<hi>Opus operatum</hi> is enough, their prayers in an unknown tongue, and their
+aſſigning to God chiefly external ſuperficial Service, con<g ref="char:EOLhyphen"/>ſiſting in
+a rabble of empty childiſh Rites, and gaudy Ceremonies, there<g ref="char:EOLhyphen"/>by taking from
+him the nobler part of his Creature, without which the Ser<g ref="char:EOLhyphen"/>vices or
+Emaſſerations of the body, how ſplendid or ſevere ſoever, are no more
+pleaſing to him than the noiſom evaporations of a Putrid Carcaſs to
+us.</p>
+            <p n="5">5. Their Doctrines tend not only thus to formality and
+lukewarmneſs, but to open profaneneſs and diſſolute living; 
+<pb n="60" facs="tcp:171085:34"/> witneſs their notion of Venial ſins, their Pardons,
+Abſolutions, Indulgences, Diſ<g ref="char:EOLhyphen"/>penſations, <hi>&amp;c.</hi> It being
+obſervable, that the moſt ignorant and careleſs, or the moſt wicked and
+debauch'd, make up the greateſt part of their Proſelytes; nor is it
+ſtrange, ſince falſe Principles and bad Lives (like Ice and Water)
+mutually begat each other.</p>
+            <p n="6">6. Their Doctrines are abſurd.</p>
+            <p n="1">1. Witneſs their fancy of the Popes Infallibility; you can
+ſcarce caſt your eye on any ſtory where the Villany of Popes is not at
+large diſcovered; and who can believe that the pure Spirit of God ſhould
+endow with Infallibility of judgment, Monſters ſo viſibly fulſome and
+abominable! We find that the Holy Ghoſt did under the Law hate and forbid all
+Impurities, though in meer outward Circumſtances; how then ſhould he under
+the brighter light of the Goſpel ſuffer himſelf to be poured out of one
+unclean veſſel into another, beginning again with a Conjurer, where he left
+with a <hi>Sodomite.</hi>
+            </p>
+            <p n="2">
+               <pb n="61" facs="tcp:171085:34"/>2. Witneſs likewiſe the Prayer for
+the dead; a practiſe (if I may uſe ſo light a compariſon) altogether as
+vain and impertinent as that of Bowlers, ſtre<g ref="char:EOLhyphen"/>nuouſly crying out rub or
+fly, after they have delivered their Caſt.</p>
+            <p n="3">3. Witneſs too their Darling whim<g ref="char:EOLhyphen"/>ſie of the corporal
+Preſence, attended with a numerous train of contradicti<g ref="char:EOLhyphen"/>ons and
+incongruities; they ſay it is a Sacrament (or ſign), and can it be at once
+both the ſign and thing ſignified? If it be Chriſts body really, how is
+it ſacramentally? If ſacramentally, how really and corporally? They ſay
+there is no real and corporal Preſence till the Prieſt repeat the words;
+and if ſo, then the creature (and oftentimes a ſad one) makes his Creator;
+and in receiving the Creator is comprehended by the Crea<g ref="char:EOLhyphen"/>ture; abſurdities
+nothing ſhort of Blaſ<g ref="char:EOLhyphen"/>phemy; when our Saviour inſtituted the Supper, and
+ſaid, <hi>Take eat,</hi> &amp;c. was the Bread and Wine, both the giver and
+the gift, the body bleſſing, and the bo<g ref="char:EOLhyphen"/>dy bleſt? did the ſame body
+hold the <pb n="62" facs="tcp:171085:35"/> ſame body in its own Fingers? Was it eaten in
+pieces by every one of the Diſciples, and yet then all whole with<g ref="char:EOLhyphen"/>out them
+all? Myſteries of Religion may be above, but never ſo directly againſt
+reaſon; and ſeriouſly I admire any man of ſenſe can be a Papiſt,
+when the chief demonſtration of his Religion muſt be his not
+underſtanding it.</p>
+            <p n="4">4. Their Doctrines are dangerous to the Temporal eſtate
+and juſt rights of Princes; witneſs their Uſurpations over (not to ſay
+Aſſaſſinations of) Kings, diſpoſing of Crowns, abſolving
+ſubjects from their Allegiance, <hi>&amp;c.</hi> For in ſhort, the whole
+<hi>Romiſh</hi> Hierarchy is ſo far from being ſuited within the order of
+the Goſpel, that the main deſign of their Popes, Cardinals, Jeſuits and
+Fryers of many ſorts (eſteemed of the Religious Tribe) is but to advance
+themſelves above all that is called God, and to gratify their baſe luſts,
+inſtead of plea<g ref="char:EOLhyphen"/>ſing of him.</p>
+         </div>
+         <div type="directions">
+            <pb n="63" facs="tcp:171085:35"/>
+            <head>Directions how you may keep your ſelf from being a
+Papiſt.</head>
+            <p n="1">1. STudy to have right notions and due apprehenſions of
+the matter, import, and chief deſign of the Goſpel: be not a ſtranger to
+the knowledg of God in Jeſus Chriſt, and the bleſſed Spirit. Acquaint
+your ſelf with the my<g ref="char:EOLhyphen"/>ſtery of the Goſpel, as it lyes in the Per<g ref="char:EOLhyphen"/>ſon,
+Natures, Offices, Life and Death of the Lord Redeemer. Let the Scriptures be
+your conſtant Counſellor; without know<g ref="char:EOLhyphen"/>ledg the heart cannot be good; and a
+bad heart is prepared to ſuck in bad Principles: 'Tis not for nothing the
+Pa<g ref="char:EOLhyphen"/>piſts make <hi>Ignorance</hi> the Mother of their Devotion; they that have
+truly learnt <pb n="64" facs="tcp:171085:36"/> Chriſt and the Goſpel, will hardly be
+taught by <hi>Romes</hi> School-Maſters.</p>
+            <p n="2">2. Study a ſound and thorow Con<g ref="char:EOLhyphen"/>verſion: I never yet
+knew any man bleſt with a broken and contrite heart (that is, a heart broken
+for ſin, and a heart broken off from ſin) that ever was taken with their
+Relligion.</p>
+            <p n="3">3. Get a faithful and a tender conſci<g ref="char:EOLhyphen"/>ence; I ſay
+<hi>faithful,</hi> for then it will not be ſatisfied with droſs inſtead
+of Gold, with paint inſtead of true and ſound Piety. A faithful
+conſcience will inform you, that God is a Spirit; and the more ſpiritual we
+are in our Devotions, the more we pleaſe him: that 'tis not a pom<g ref="char:EOLhyphen"/>pous, but a
+pure worſhip that he is de<g ref="char:EOLhyphen"/>lighted in: And as to expiation of our guilt,
+nothing but the blood of Chriſt can take away ſin; that 'tis not their
+blind penances, pilgrimages, croſſings, crin<g ref="char:EOLhyphen"/>gings, will anſwer the great
+end of our <pb n="65" facs="tcp:171085:36"/> Redemption; but a heart devoted to his fear and
+love, and a mind fully ſet upon him.</p>
+            <p n="4">4. Be well acquainted with the plague of your own heart, the
+nature of Ori<g ref="char:EOLhyphen"/>ginal ſin, how it hath defiled and weak<g ref="char:EOLhyphen"/>ned all the powers of
+the ſoul. This will let you ſee the neceſſity there is for the
+bleſſed Spirit to heal and help thoſe ſpiritual diſtempers; that
+<hi>without him ye can do nothing;</hi> that 'tis he that <hi>works in you both
+to will and to do.</hi>
+            </p>
+            <p n="5">5. Look upon Superſtition as a fruit of the fleſh; and
+that nothing is more grateful to fleſh and blood, than Idola<g ref="char:EOLhyphen"/>try and
+formality; they that know what proneneſs there is in the nature of man to a
+carnal, ſenſual, vain Religion, will not think it ſtrange that the
+Papiſts have foiſted in ſo many fulſome things into <pb n="66" facs="tcp:171085:37"/> their Worſhip, to comply with the car<g ref="char:EOLhyphen"/>nal humours of men.</p>
+            <p n="6">6. Be much in the duty of Mortifi<g ref="char:EOLhyphen"/>cation, and that will
+acquaint you with the way, means, and manner of it; 'tis through the Spirit
+Believers come to mortify the deeds of the Fleſh; at beſt the Popiſh
+Penances, can but pen up ſin, but the next temptation will break the hedg:
+Whereas the bleſſed Spirit lays his ſtrong hand upon the ir<g ref="char:EOLhyphen"/>ritating
+power of indwelling ſin, and thereby ſubjects the heart unto himſelf; he
+heals the pollution of our nature, renews us in the ſpirit of our minds,
+cleanſes our affections, and thereby cauſes us who formerly delighted in
+fleſh plea<g ref="char:EOLhyphen"/>ſing vanities, to delight our ſelves in him, his word, will,
+way, <hi>&amp;c.</hi>
+            </p>
+            <p n="7">7. Know the miſchief of Idolatry. The ſetting your
+ſelf againſt heart-Idols, will keep you from Idol-worſhip; you 
+<pb n="67" facs="tcp:171085:37"/> know who tells us expreſly, I will not give my praiſe
+to graven Images. Re<g ref="char:EOLhyphen"/>member how ſmartly the <hi>Jews</hi> ſuffered for this
+ſin, and yet had not ſuch a ſpi<g ref="char:EOLhyphen"/>ritual diſpenſation as we that are
+under the Goſpel; if it be ſo dangerous to ſhape Idea's of God in our
+Fancies and Imaginations, though never ſo much raiſed in our invention, how
+dange<g ref="char:EOLhyphen"/>rous muſt it be to be in a place where ſuch Images are found in Wood
+and Cloth.</p>
+            <p>Laſtly, Allow your ſelf in no known ſin. 'Tis the
+conſcience being made de<g ref="char:EOLhyphen"/>ceitful through ſuch deceitful works, that makes
+people forward to cover themſelves with thoſe figments of Po<g ref="char:EOLhyphen"/>pery; whereas
+the man that makes it his due care and conſcience to keep himſelf
+unſpotted from allowed evil, is the likelieſt man to ſave himſelf from
+ſuch an untoward generation of <pb n="68" facs="tcp:171085:38"/> men, as would put ſuch
+a yoke on us, as we nor our Fathers were not able to bear.</p>
+            <closer>
+               <signed>Your careful Father <hi>L. D.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:171085:38"/>
+            <head>The two following Books are ne<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Printed for, and Sold by <hi>Do<gap reason="illegible" resp="#OXF" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> Newman</hi> at the <hi>Kings
+A<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Poultrey.</hi>
+            </head>
+            <p>LIfe in Gods favour: A
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſcourſe in Death-Th<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> times: being the
+ſubſtance <gap reason="illegible" resp="#OXF" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Sermons upon
+<hi>Pſalm</hi> 30.5. <hi>In <gap reason="illegible" resp="#OXF" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> is Life.</hi> By <hi>O. Heywood,</hi> Miniſ<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Goſpel.</p>
+            <p>Twenty Sermons Preached
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>veral Texts, by that late
+Reve<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ous and painful Preacher,
+Mr. <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Nalton,</hi>
+Miniſter of St. <hi>Leonard <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+lane,</hi> in the City of <hi>London.</hi>
+            </p>
+            <p>Publiſhed for publick good.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
